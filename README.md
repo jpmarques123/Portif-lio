@@ -15,3 +15,22 @@ Minha foto:
 **Interesses**: *Tenho interesse em informática e tecnologia, além de gostar de geografia e história em geral
 O que me motiva: Dar um futuro bom para mim mesmo, e para minha familia. Também gosto de fazer atividades físicas e praticar esportes, e gosto de falar sobre assuntos mundiais, não importa muito o tópico.*
 
+# O que gosto de fazer
+
+[1ª coisa
+[2ª coisa]
+[3ª coisa]
+[4ª coisa]
+[5ª coisa]
+
+
+(Edite essa lista livremente — o objetivo é expressar rotina e interesses reais)
+
+Meus objetivos
+
+[Descreva um objetivo válido]
+
+[Liste 4 objetivos]
+[Liste 4 objetivos]
+[Liste 4 objetivos]
+[Liste 4 objetivos]
