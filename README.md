@@ -1,4 +1,4 @@
-# 👋Olá! Eu sou João Pedro
+# 👋Olá! Eu sou João Pedro Marques de Lima
 
 Minha foto: 
 
@@ -26,8 +26,6 @@ O que me motiva: Dar um futuro bom para mim mesmo, e para minha familia. Também
 - Participo de atividades na escola
 
  - Gosto de resolver problemas e entender como as coisas funcionam
-
-
 
 
 # Meus objetivos
