@@ -17,16 +17,15 @@ O que me motiva: Dar um futuro bom para mim mesmo, e para minha familia. Também
 
 # O que gosto de fazer
 
-- Gosto de estudar informática e tecnologia
+- Gosto de fazer atividades físicas
 
-- Curto aprender sobre geografia e história
+- Gosto de assistir
 
-- Gosto de ajudar outras pessoas quando precisam
+- Gosto de falar sobre assuntos gerais
 
-- Participo de atividades na escola
+- Gosto de cozinhar
 
- - Gosto de resolver problemas e entender como as coisas funcionam
-
+- Gosto de resolver problemas e entender como as coisas funcionam
 
 # Meus objetivos
 
