@@ -1,6 +1,6 @@
 # 👋Olá! Eu sou João Pedro Marques de Lima
 
-Minha foto: 
+![alt text](1000043201.png) 
 
 **Sou uma pessoa criativa e gosto de trabalhar em grupo, especialmente quando há desafios a serem resolvidos. Sempre busco compreender o problema a fundo, fazendo perguntas e trocando ideias com os outros. Gosto de compartilhar o que sei e ajudar quem precisa, porque acredito que o aprendizado é muito mais rico quando cresce junto com as pessoas ao meu redor.**
 
