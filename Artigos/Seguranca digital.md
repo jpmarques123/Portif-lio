@@ -123,3 +123,57 @@ A melhor proteção é sempre a prevenção.
 - Cert.br  
 - Cartilha de Segurança para Internet (CGI.br)
 
+## 🔍 Onde Encontrar Mais Informações Sobre Segurança Digital
+
+---
+
+### 🏛️ **Instituições Oficiais**
+- **CERT.br (Centro de Estudos e Tratamento de Incidentes)**  
+  https://www.cert.br  
+- **NIC.br (Núcleo de Informação e Coordenação da Internet)**  
+  https://www.nic.br/  
+- **SaferNet Brasil**  
+  https://www.safernet.org.br  
+
+---
+
+### 🛡️ **Organizações de Segurança Reconhecidas**
+- **OWASP (Open Worldwide Application Security Project)**  
+  https://owasp.org  
+- **MITRE – Conhecimento sobre ameaças e vulnerabilidades**  
+  https://mitre.org  
+- **CISA – Cybersecurity and Infrastructure Security Agency**  
+  https://www.cisa.gov  
+
+---
+
+### 📚 **Blogs e Portais de Tecnologia**
+- **Kaspersky Security Blog**  
+  https://www.kaspersky.com/blog  
+- **Avast Blog**  
+  https://blog.avast.com  
+- **ESET – We Live Security**  
+  https://www.welivesecurity.com  
+- **Pplware (Tecnologia e segurança)**  
+  https://pplware.sapo.pt  
+
+---
+
+### 🧠 **Centros de Aprendizado e Cursos**
+- **Google Safety Center**  
+  https://safety.google  
+- **Microsoft Security Blog**  
+  https://www.microsoft.com/security/blog/  
+- **Coursera** – Cursos de cibersegurança  
+  https://www.coursera.org  
+- **Udemy** – Cursos práticos  
+  https://www.udemy.com  
+- **Alura** – Formação em segurança e TI  
+  https://www.alura.com.br  
+
+---
+
+### 📺 **Canais e Conteúdos Extras (YouTube / Blogs pessoais)**
+- **Security Now! Podcast**  
+- **Canal "Segurança Digital – Gabriel Pato"**  
+- **Canal "Professor Ramos" — Conteúdos sobre redes e segurança**  
