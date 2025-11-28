@@ -169,7 +169,40 @@ A melhor proteção é sempre a prevenção.
 - **Udemy** – Cursos práticos  
   https://www.udemy.com  
 - **Alura** – Formação em segurança e TI  
-  https://www.alura.com.br  
+  https://www.alura.com.br
+
+    ## 📊 Estatísticas Sobre Ameaças Digitais
+
+As ameaças digitais têm crescido rapidamente nos últimos anos. Veja alguns dados importantes:
+
+- 🔐 **8 em cada 10 brasileiros** já sofreram algum tipo de golpe digital.
+- 💸 O Brasil está entre os **5 países que mais sofrem ataques cibernéticos** no mundo.
+- 📱 Mais de **70% dos golpes** hoje acontecem por aplicativos de mensagem, como WhatsApp.
+- 🛑 Sites falsos aumentaram **mais de 150%** nos últimos dois anos.
+- 🎣 O golpe de *phishing* ainda é o mais comum, representando **mais de 60%** das tentativas de ataque.
+
+Esses números mostram que todos — jovens, adultos e idosos — estão expostos diariamente.
+
+---
+
+## ⚠️ Casos Reais de Ataques Cibernéticos
+
+### 🦠 WannaCry (2017)
+Um ransomware que se espalhou pelo mundo e afetou hospitais, empresas e sistemas governamentais. Ele bloqueava o computador e exigia pagamento em Bitcoin.
+
+### 💰 Golpes no WhatsApp no Brasil
+Criminosos se passam por familiares ou amigos, pedindo dinheiro urgentemente. Esse golpe cresceu tanto que se tornou um dos mais comuns no país.
+
+### 📦 Vazamento de Dados de Grandes Empresas
+Em diversos casos — como Facebook, iFood e até serviços do governo — milhões de dados de usuários foram expostos, incluindo CPF, e-mails e endereços.
+
+### 🏦 Golpes de Pix
+Links falsos, QR Codes adulterados e perfis clonados são usados para enganar usuários e roubar valores instantaneamente.
+
+---
+
+Essas estatísticas e casos mostram por que a segurança digital é uma necessidade real — e não apenas um cuidado opcional.
+
 
 ---
 
