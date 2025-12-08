@@ -5,7 +5,9 @@
 
 
 
-**Sou uma pessoa criativa e gosto de trabalhar em grupo, especialmente quando há desafios a serem resolvidos. Sempre busco compreender o problema a fundo, fazendo perguntas e trocando ideias com os outros. Gosto de compartilhar o que sei e ajudar quem precisa, porque acredito que o aprendizado é muito mais rico quando cresce junto com as pessoas ao meu redor.**
+**Busco minha primeira experiência profissional e a oportunidade de ingressar como Jovem Aprendiz.
+ Sou uma pessoa criativa. Procuro sempre entender os problemas a fundo, fazendo perguntas e trocando ideias para encontrar as melhores soluções.
+.**
 
 ## 🔍Sobre mim
 
